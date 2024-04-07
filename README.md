@@ -1,1 +1,1 @@
-# A repository of some projects using HTML and CSS
+# A repository of some projects using HTML, CSS and JavaScript
